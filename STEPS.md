@@ -6,5 +6,6 @@
 - Pour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés les uns des autres; ils grandiront à la
 cuisson.
 - Enfourner pour 10 minutes de cuisson.
-
 - Fresser le plat
+
+Bonne app' !
