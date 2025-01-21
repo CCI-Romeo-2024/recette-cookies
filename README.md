@@ -8,3 +8,6 @@
 - 100g de chocolat noir
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
+
+
+Ce projet a été créé pour comprendre l’utilisation de GIT
