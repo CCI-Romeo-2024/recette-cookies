@@ -11,3 +11,6 @@
 
 
 Ce projet a été créé pour comprendre l’utilisation de GIT
+
+- [History](./history.md)
+- [Steps](./STEPS.md)
